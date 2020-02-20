@@ -1,3 +1,3 @@
 [submodule "esm-tools"]
-	path = esm-tools
+	path = software/esm-tools
 	url = https://gitlab.dkrz.de/esm-tools/esm-tools.git
