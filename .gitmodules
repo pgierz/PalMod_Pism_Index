@@ -1,3 +1,6 @@
 [submodule "esm-tools"]
 	path = software/esm-tools
 	url = https://gitlab.dkrz.de/esm-tools/esm-tools.git
+[submodule "software/esm-runscripts"]
+	path = software/esm-runscripts
+	url = https://gitlab.dkrz.de/esm-tools/esm-runscripts.git
