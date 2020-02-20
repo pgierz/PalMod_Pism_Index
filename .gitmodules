@@ -1,3 +1,6 @@
+[submodule "pism"]
+        path = models/pism-index1.1
+        url = https://github.com/sebhink/pism-pub.git
 [submodule "esm-tools"]
 	path = software/esm-tools
 	url = https://gitlab.dkrz.de/esm-tools/esm-tools.git
